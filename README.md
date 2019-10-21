@@ -61,9 +61,9 @@ You can become by sending us crypto to the following addresses:
 
 ---
 
-## PuraVida DAC
+## Pura Vida DAC
 
-The PuraVida DAC is software development collective that operates entirely on smart contracts.
+The Pura Vida DAC is software development collective that operates entirely on smart contracts.
 
 [puravidadac.io](https://puravidadac.io)  
 
