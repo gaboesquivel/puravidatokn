@@ -12,9 +12,9 @@
 	</a>
 </p>
 
-# Pura Vida DAC Smart Contracts
+# Lift Smart Contracts
 
-Pura Vida DAC Smart Contracts. 
+Lift Smart Contracts. 
 
 ## Requirements
 
