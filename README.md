@@ -37,11 +37,6 @@ Lift Smart Contracts.
 We follow Blockmatic's Open Source Contributing Guidelines.    
 Visit [developers.blockmatic.io/contributing-guidelines](https://developers.blockmatic.io/contributing-guidelines) for details.
 
-## License
-
-MIT © Lift
-
----
 
 ## LIFT
 
